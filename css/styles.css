@@ -330,6 +330,7 @@ p {
     color: var(--paragraph-color);
     letter-spacing: 0.02em;
     max-width: 264px;
+    margin-top: 16px;
 }
 
 .studioo {
